@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Pierre (@pierrre2db)
+n# 👋 Bonjour, je suis Pierre (@pierrre2db)
 
 🎯 **Expert en intelligence artificielle appliquée | Chef de projet Agile | Technopédagogue**
 
@@ -11,6 +11,7 @@ Passionné et professionnel de l'IA, je conçois et intègre des solutions intel
 Mon approche : concrète, éthique, orientée utilisateurs – avec une attention particulière à la **pédagogie augmentée par l'IA**.
 
 **🛠️ Domaines d'intervention :**
+
 - Conception de parcours pédagogiques propulsés par l'IA (ChatGPT, Perplexity, IA générative, etc.)
 - Automatisation de processus via N8N et autres outils no-code/low-code
 - Sensibilisation et accompagnement à l'usage responsable de l'IA
@@ -24,6 +25,7 @@ Avec une double casquette solide, je pilote des projets à la croisée de la tec
 J'orchestre l'innovation sans perdre de vue les utilisateurs et les réalités de terrain.
 
 **✔️ Méthodologies :**
+
 - Agile, itératif et orienté valeur
 - Feedback continu & culture du test
 - Communication claire, empathique, structurée
@@ -33,6 +35,7 @@ J'orchestre l'innovation sans perdre de vue les utilisateurs et les réalités d
 ## 🔧 Passions technos (parce qu'on peut être pro *et* bidouilleur)
 
 En dehors du bureau, je suis un fervent explorateur de :
+
 - 🏠 **Domotique** et maison intelligente (avec ou sans câbles qui traînent)
 - 🧰 **Raspberry Pi**, microcontrôleurs et bidouilles électroniques
 - 🖨️ **Impression 3D** (actuellement en phase de calibration permanente 😄)
@@ -52,6 +55,7 @@ En dehors du bureau, je suis un fervent explorateur de :
 ## 🤝 Collaborations bienvenues
 
 Je suis ouvert à toute opportunité autour de :
+
 - l'**IA appliquée à l'éducation et à la formation**
 - les outils low-code / no-code
 - les projets tech à impact social ou éducatif
@@ -62,7 +66,8 @@ Je suis ouvert à toute opportunité autour de :
 
 ## 📫 Me contacter
 
-📧 [À compléter]
+📧 pierre2db@gmail.com
+📞 +32 xx xxx xx xx
 🌐 [LinkedIn / Site pro à insérer]
 
 > « L'IA ne remplacera pas les professionnels… mais ceux qui savent l'utiliser remplaceront ceux qui ne le font pas. »
