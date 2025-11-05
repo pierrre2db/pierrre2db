@@ -1,4 +1,4 @@
-n# 👋 Bonjour, je suis Pierre (@pierrre2db)
+# 👋 Bonjour, je suis Pierre (@pierrre2db)
 
 🎯 **Expert en intelligence artificielle appliquée | Chef de projet Agile | Technopédagogue**
 
@@ -66,9 +66,13 @@ Je suis ouvert à toute opportunité autour de :
 
 ## 📫 Me contacter
 
-📧 pierre2db@gmail.com
-📞 +32 xx xxx xx xx
-🌐 [LinkedIn / Site pro à insérer]
+📧 **E-mail** : [pierre2db@gmail.com](mailto:pierre2db@gmail.com)
+
+📱 **Téléphone (mobile)** : +32 499 45 54 45
+
+🔗 **Profil LinkedIn** : [linkedin.com/in/pierrededobbeleer](https://linkedin.com/in/pierrededobbeleer)
+
+---
 
 > « L'IA ne remplacera pas les professionnels… mais ceux qui savent l'utiliser remplaceront ceux qui ne le font pas. »
 
